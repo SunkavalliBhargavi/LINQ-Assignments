@@ -1,0 +1,8 @@
+C:\Users\Bhargavi\source\repos\LinqAssignment1\LinqAssignment1\obj\Debug\LinqAssignment1.csproj.AssemblyReference.cache
+C:\Users\Bhargavi\source\repos\LinqAssignment1\LinqAssignment1\obj\Debug\LinqAssignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bhargavi\source\repos\LinqAssignment1\LinqAssignment1\obj\Debug\LinqAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Bhargavi\source\repos\LinqAssignment1\LinqAssignment1\bin\Debug\LinqAssignment1.exe.config
+C:\Users\Bhargavi\source\repos\LinqAssignment1\LinqAssignment1\bin\Debug\LinqAssignment1.exe
+C:\Users\Bhargavi\source\repos\LinqAssignment1\LinqAssignment1\bin\Debug\LinqAssignment1.pdb
+C:\Users\Bhargavi\source\repos\LinqAssignment1\LinqAssignment1\obj\Debug\LinqAssignment1.exe
+C:\Users\Bhargavi\source\repos\LinqAssignment1\LinqAssignment1\obj\Debug\LinqAssignment1.pdb
